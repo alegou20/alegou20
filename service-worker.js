@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d883714f525a3c9cbfecd358ad4e2ed5.js"
+  "/precache-manifest.0c15a1af7fdff11ae5b83deb0c0fb043.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "accountrider_client"});
